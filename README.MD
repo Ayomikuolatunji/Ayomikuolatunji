@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayomiku Olatunji</h1>
 <h3 align="center">I am a passionate web developer with few years of experience in the web industry. One special thing about me is that I am very hardworking and I love javascript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayomikuolatunj&label=Profile%20views&color=0e75b6&style=flat" alt="ayomikuolatunj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayomikuolatunji&label=Profile%20views&color=0e75b6&style=flat" alt="ayomikuolatunj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayomikuolatunj" alt="ayomikuolatunj" /></a> </p>
 
