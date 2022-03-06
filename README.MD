@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayomikuolatunji" alt="ayomikuolatunji" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/ayomiku222" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ayomiku222?logo=twitter&style=for-the-badge" alt="https://twitter.com/ayomiku222" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ayomiku222" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ayomiku222?logo=twitter&style=for-the-badge" alt="https://twitter.com/ayomiku222" /></a> </p>
 
 - 🔭 I’m currently working on Travel Map Advisor **Travel Map Advisor**
 
