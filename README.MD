@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayomikuolatunji&label=Profile%20views&color=0e75b6&style=flat" alt="ayomikuolatunji" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayomikuolatunji" alt="ayomikuolatunji" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayomikuolatunji" alt="ayomikuolatunji" /></a> </p>
 
 - 🔭 I’m currently working on Travel Map Advisor **Travel Map Advisor**
 
@@ -26,7 +26,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<div style="display:"flex", flex-wrap:"wrap"" width="100%" align="center">
+<div style="display:"flex", flex-wrap:"wrap"" width="100%" >
 <a href="https://codepen.io/@ayomikuolatunji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ayomikuolatunji" height="30"  /></a>
   
 <a href="https://dev.to/@ayomiku222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ayomiku222" height="30"  /></a>
