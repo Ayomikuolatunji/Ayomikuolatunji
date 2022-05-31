@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayomikuolatunji" alt="ayomikuolatunji" /></a> </p>
 
-- 🔭 I’m currently working on Travel Map Advisor **Travel Map Advisor**
+- 🔭 I’m currently working on Travel Map Advisor **Online Office Project**
 
-- 🌱 I’m currently learning **Nextjs, Nodejs and Express**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on [VerityPQ](https://varsity-pq-frontend.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [Not available now](Not available now)
 
 - 📝 I regularly write articles on [Understanding JavaScript Regex Expression](Understanding JavaScript Regex Expression)
 
