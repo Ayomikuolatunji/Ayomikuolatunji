@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Travel Map Advisor **Online Office Project**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native && C# && PWA**
 
 - 👯 I’m looking to collaborate on [VerityPQ](https://varsity-pq-frontend.vercel.app/)
 
