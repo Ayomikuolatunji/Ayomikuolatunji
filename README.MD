@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayomiku Olatunji A.K.A Ayoscript</h1>
-<h3 align="center">A passionate Fullstack JavaScript Developer from Nigeria with profound experience in web development</h3>
+<h3 align="center">A passionate Fullstack JavaScript Developer from Nigeria with profound experience in web development. I believe in consistency,hardworking and goal setting as the only way to success</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayomikuolatunji&label=Profile%20views&color=0e75b6&style=flat" alt="ayomikuolatunji" /> </p>
 
