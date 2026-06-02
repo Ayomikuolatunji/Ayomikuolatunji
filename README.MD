@@ -1,34 +1,142 @@
-<h1 align="center">Hi 👋, I'm Ayomiku Olatunji A.K.A Ayoscript</h1>
-<h3 align="center">A passionate Fullstack JavaScript Developer from Nigeria with profound experience in web development. I believe in consistency,hardworking and goal setting as the only way to success</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayomikuolatunji&label=Profile%20views&color=0e75b6&style=flat" alt="ayomikuolatunji" /> </p>
+  <h1 align="center">Ayomiku Olatunji — AyoScript</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayomikuolatunji" alt="ayomikuolatunji" /></a> </p>
+  <h3 align="center">
+  Senior Backend / Full-stack Engineer building AI, fintech, edtech, social, crypto, and infrastructure-heavy products.
+  </h3>
 
-- 📝 I regularly write articles on [Understanding JavaScript Regex Expression](Understanding JavaScript Regex Expression)
+  <p align="center">
+    <a href="mailto:ayomikuolatunji@gmail.com">Email</a> •
+    <a href="https://www.linkedin.com/in/ayomiku-olatunji-891901198/">LinkedIn</a> •
+    <a href="https://github.com/Ayomikuolatunji">GitHub</a> •
+    <a href="https://x.com/AyomikuO_">X</a>
+  </p>
 
-- 💬 Ask me about **JavaScript Object, React and webpack configuration**
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ayomikuolatunji&label=Profile%20views&color=17664a&style=flat" alt="Profile views" />
+  </p>
 
-- 📫 How to reach me **ayomikuolatunji@gmail.com**
+  ---
 
-- ⚡ Fun fact **I am nice and cool person.**
-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ayomikuolatunji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ayomikuolatunji" height="30" width="40" /></a>
-<a href="https://dev.to/@ayomiku222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ayomiku222" height="30" width="40" /></a>
-<a href="https://twitter.com/ayomiku222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayomiku222" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayomiku-olatunji-891901198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayomiku-olatunji-891901198" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14823515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14823515" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ayomikuolatunji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ayomikuolatunji" height="30" width="40" /></a>
-</p>
+  ### What I Do
 
+  I build production software where backend complexity directly affects the product experience: slow data, realtime chat, wallet transactions, AI workflows, OCR cleanup,
+  payment providers, cloud operations, admin systems, and mobile-facing APIs.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+  I have 7 years of experience across Node.js, TypeScript, Python, FastAPI, PostgreSQL, Redis, AWS, GCP, Azure, React, Next.js, Flutter-backed systems, and high-volume
+  product infrastructure.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayomikuolatunji&show_icons=true&locale=en&layout=compact" alt="ayomikuolatunji" /></p>
+  ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayomikuolatunji&show_icons=true&locale=en" alt="ayomikuolatunji" /></p>
+  ### Current Engineering Focus
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayomikuolatunji&" alt="ayomikuolatunji" /></p>
+  - Backend architecture for AI, fintech, edtech, crypto, social, and operational platforms
+  - PostgreSQL performance, indexing, materialized views, caching, and billion-record data systems
+  - AI product engineering with DeepSeek/OpenAI-style APIs, streaming chat, OCR workflows, exam generation, and tutor systems
+  - Wallet, payment, KYC, crypto, settlement, and provider-heavy transaction flows
+  - Realtime systems with Socket.IO, Redis, queues, notifications, and mobile-first concurrency
+  - Cloud operations: AWS, GCP, Azure, CI/CD, Nginx, monitoring, backups, rollback, and cost control
+
+  ---
+
+  ### Selected Systems
+
+  #### AbS — Edtech, AI, Mobile, Admin, Ads
+
+  Built and led major parts of an education platform covering Flutter mobile, backend APIs, web admin, ads, wallets, Sabi AI, Sabi Examiner, Sabi Scholar, academic-library
+  ingestion, chat, and student collaboration.
+
+  Key work:
+  - Operated PostgreSQL at 4B+ record scale
+  - Reduced API latency by 45%
+  - Built AI learning workflows, OCR extraction, practice generation, tutor flows, and background workers
+  - Connected student UX, admin controls, queues, Redis, object storage, and production operations
+
+  App links:
+  - Android: https://play.google.com/store/apps/details?id=com.abstech.absmvp.prod
+  - iOS: https://apps.apple.com/us/app/abs-tech/id6502200174
+
+  #### HelloBob — Crypto Wallet Backend
+
+  Built backend systems for a mobile crypto wallet where users deposit, withdraw, swap, sell, transfer, use AI-heavy trading flows, and settle into Nigerian bank accounts.
+
+  Key work:
+  - Quidax, Dojah, Paystack, P2P admin, wallet ledger, and transaction state handling
+  - AI-heavy trading-bot workflows
+  - Secure wallet APIs, Socket.IO messaging, monitoring, backups, rollback-ready infrastructure
+  - Designed flows around provider failure, idempotency, auditability, and operational recovery
+
+  Website: https://hellobob.app
+
+  #### DigiYo — Sports Social Platform
+
+  Worked on backend and infrastructure for a sports social platform with challenges, media uploads, feeds, messaging, recommendations, moderation needs, and AI media
+  workflows.
+
+  Key work:
+  - Social graph, posts, follows, likes, comments, feeds, notifications
+  - Bull/Redis jobs, S3 media storage, CloudFront delivery, Nginx caching, and rate limiting
+  - Moved heavy AI/media work out of request paths through queues and workers
+
+  Website: https://www.digiyo.com
+
+  #### Bonsaiilabs / BetterMenu
+
+  Delivered modernization, cloud infrastructure, app delivery, testing, performance, and cost reduction work.
+
+  Key work:
+  - React, CapacitorJS, Node.js, PostgreSQL, Google Cloud, Playwright, Cloud Armor
+  - Improved data retrieval speed by 80%
+  - Removed $30K in annual product cost through architecture and delivery improvements
+
+  Website: https://bettermenu.live
+
+  ---
+
+  ### Core Stack
+
+  <p>
+    <img src="https://skillicons.dev/icons?
+    i=ts,js,nodejs,express,nestjs,python,fastapi,react,nextjs,flutter,postgres,mysql,mongodb,redis,aws,gcp,azure,docker,kubernetes,terraform,nginx,graphql,prisma,githubact
+    ions" />
+  </p>
+
+  ---
+
+  ### Technical Areas I Can Defend
+
+  - API design, auth, permissions, rate limits, and backend boundaries
+  - PostgreSQL query plans, indexes, partitioning, read replicas, materialized views, and Redis strategy
+  - Queue design, background workers, retries, failure handling, and async AI workloads
+  - Wallet ledgers, KYC, payment providers, crypto rails, settlement, and admin recovery tools
+  - Streaming chat, realtime messaging, Socket.IO, notifications, and mobile API contracts
+  - Cloud deployment, observability, backups, rollback, cost control, and production debugging
+
+  ---
+
+  ### Open To
+
+  - Senior backend engineering roles
+  - AI product engineering roles
+  - Platform / infrastructure roles
+  - Contract work with clear technical outcomes
+  - Startup roles in edtech, fintech, crypto, social, AI, or operational platforms
+
+  ---
+
+  ### Contact
+
+  - Email: ayomikuolatunji@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/ayomiku-olatunji-891901198/
+  - X: https://x.com/AyomikuO_
+  - GitHub: https://github.com/Ayomikuolatunji
+
+  ---
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ayomikuolatunji&show_icons=true&theme=github_dark&hide_border=true" alt="Ayomiku GitHub stats" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayomikuolatunji&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  </p>
