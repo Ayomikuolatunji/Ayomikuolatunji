@@ -87,7 +87,6 @@
 
   ## Technical Depth
 
-  ```txt
   Backend        API design, auth, permissions, queues, workers, realtime systems
   Data           PostgreSQL, indexing, materialized views, Redis, query performance
   AI             OCR cleanup, tutor flows, generation pipelines, streaming chat
@@ -114,4 +113,4 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayomikuolatunji&layout=compact&theme=github_dark&hide_border=true" />
   </p>
-```
+
