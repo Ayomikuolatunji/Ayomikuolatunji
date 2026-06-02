@@ -1,101 +1,83 @@
-
-  <h1 align="center">Ayomiku Olatunji — AyoScript</h1>
-
-  <h3 align="center">
-  Senior Backend / Full-stack Engineer building AI, fintech, edtech, social, crypto, and infrastructure-heavy products.
-  </h3>
+ <h1 align="center">Ayomiku Olatunji — AyoScript</h1>
 
   <p align="center">
-    <a href="mailto:ayomikuolatunji@gmail.com">Email</a> •
-    <a href="https://www.linkedin.com/in/ayomiku-olatunji-891901198/">LinkedIn</a> •
-    <a href="https://github.com/Ayomikuolatunji">GitHub</a> •
-    <a href="https://x.com/AyomikuO_">X</a>
+    <b>Senior Backend / Full-stack Engineer</b><br/>
+    Building AI, fintech, edtech, crypto, social, and infrastructure-heavy products.
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ayomikuolatunji&label=Profile%20views&color=17664a&style=flat" alt="Profile views" />
+    <a href="mailto:ayomikuolatunji@gmail.com">
+      <img src="https://img.shields.io/badge/Email-ayomikuolatunji%40gmail.com-17664a?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/ayomiku-olatunji-891901198/">
+      <img src="https://img.shields.io/badge/LinkedIn-Ayomiku%20Olatunji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://x.com/AyomikuO_">
+      <img src="https://img.shields.io/badge/X-@AyomikuO_-111111?style=for-the-badge&logo=x&logoColor=white" />
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Ayomikuolatunji&label=Profile%20views&color=17664a&style=flat" />
   </p>
 
   ---
 
-  ### What I Do
+  ## Engineering Focus
 
-  I build production software where backend complexity directly affects the product experience: slow data, realtime chat, wallet transactions, AI workflows, OCR cleanup,
-  payment providers, cloud operations, admin systems, and mobile-facing APIs.
+  I build production systems where backend quality directly affects the product: slow data, realtime chat, AI workflows, wallet transactions, payment providers, OCR
+  cleanup, admin tools, mobile APIs, and cloud operations.
 
-  I have 7 years of experience across Node.js, TypeScript, Python, FastAPI, PostgreSQL, Redis, AWS, GCP, Azure, React, Next.js, Flutter-backed systems, and high-volume
-  product infrastructure.
+  My strongest areas are:
 
-  ---
-
-  ### Current Engineering Focus
-
-  - Backend architecture for AI, fintech, edtech, crypto, social, and operational platforms
+  - Backend architecture with Node.js, TypeScript, Python, FastAPI, Express, NestJS, and Prisma
   - PostgreSQL performance, indexing, materialized views, caching, and billion-record data systems
-  - AI product engineering with DeepSeek/OpenAI-style APIs, streaming chat, OCR workflows, exam generation, and tutor systems
-  - Wallet, payment, KYC, crypto, settlement, and provider-heavy transaction flows
-  - Realtime systems with Socket.IO, Redis, queues, notifications, and mobile-first concurrency
-  - Cloud operations: AWS, GCP, Azure, CI/CD, Nginx, monitoring, backups, rollback, and cost control
+  - AI product systems using DeepSeek/OpenAI-style APIs, streaming chat, OCR workflows, and async workers
+  - Fintech and crypto flows: wallets, KYC, payment rails, provider integrations, settlement, and transaction state
+  - Realtime systems with Socket.IO, Redis, queues, notifications, and mobile-first APIs
+  - Cloud infrastructure across AWS, GCP, Azure, Docker, Nginx, CI/CD, monitoring, backups, and rollback
 
   ---
 
-  ### Selected Systems
+  ## Production Systems I Work On
 
-  #### AbS — Edtech, AI, Mobile, Admin, Ads
+  ### AbS
 
-  Built and led major parts of an education platform covering Flutter mobile, backend APIs, web admin, ads, wallets, Sabi AI, Sabi Examiner, Sabi Scholar, academic-library
-  ingestion, chat, and student collaboration.
+  AI-powered learning platform across mobile, backend, admin, ads, wallets, academic content, chat, and student workflows.
 
-  Key work:
-  - Operated PostgreSQL at 4B+ record scale
-  - Reduced API latency by 45%
-  - Built AI learning workflows, OCR extraction, practice generation, tutor flows, and background workers
-  - Connected student UX, admin controls, queues, Redis, object storage, and production operations
+  - PostgreSQL at 4B+ record scale
+  - AI tutor, Sabi Examiner, Sabi Scholar, OCR, and content-generation workflows
+  - Redis, queues, workers, object storage, realtime chat, and admin operations
+  - Mobile-backed APIs for thousands of student users
 
-  App links:
-  - Android: https://play.google.com/store/apps/details?id=com.abstech.absmvp.prod
-  - iOS: https://apps.apple.com/us/app/abs-tech/id6502200174
+  ### HelloBob
 
-  #### HelloBob — Crypto Wallet Backend
+  Crypto wallet backend for deposit, withdrawal, swap, sell, transfer, AI-heavy trading flows, and Naira settlement.
 
-  Built backend systems for a mobile crypto wallet where users deposit, withdraw, swap, sell, transfer, use AI-heavy trading flows, and settle into Nigerian bank accounts.
+  - Quidax, Dojah, Paystack, P2P admin, KYC, wallet ledger, and provider integrations
+  - Transaction states, idempotency, monitoring, rollback, and operational recovery
+  - Secure backend APIs, Socket.IO messaging, and AWS infrastructure
 
-  Key work:
-  - Quidax, Dojah, Paystack, P2P admin, wallet ledger, and transaction state handling
-  - AI-heavy trading-bot workflows
-  - Secure wallet APIs, Socket.IO messaging, monitoring, backups, rollback-ready infrastructure
-  - Designed flows around provider failure, idempotency, auditability, and operational recovery
+  ### DigiYo
 
-  Website: https://hellobob.app
+  Sports social platform with media, challenges, feeds, messaging, recommendations, and async AI workflows.
 
-  #### DigiYo — Sports Social Platform
-
-  Worked on backend and infrastructure for a sports social platform with challenges, media uploads, feeds, messaging, recommendations, moderation needs, and AI media
-  workflows.
-
-  Key work:
-  - Social graph, posts, follows, likes, comments, feeds, notifications
+  - Social graph, posts, follows, likes, comments, feeds, and notifications
   - Bull/Redis jobs, S3 media storage, CloudFront delivery, Nginx caching, and rate limiting
-  - Moved heavy AI/media work out of request paths through queues and workers
+  - Queue-based processing for heavy media and AI work
 
-  Website: https://www.digiyo.com
+  ### BetterMenu / Bonsaiilabs
 
-  #### Bonsaiilabs / BetterMenu
+  Modernization, cloud infrastructure, app delivery, performance, testing, and cost reduction work.
 
-  Delivered modernization, cloud infrastructure, app delivery, testing, performance, and cost reduction work.
-
-  Key work:
   - React, CapacitorJS, Node.js, PostgreSQL, Google Cloud, Playwright, Cloud Armor
-  - Improved data retrieval speed by 80%
-  - Removed $30K in annual product cost through architecture and delivery improvements
-
-  Website: https://bettermenu.live
+  - Improved data retrieval speed and reduced delivery cost through targeted architecture work
 
   ---
 
-  ### Core Stack
+  ## Core Stack
 
-  <p>
+  <p align="left">
     <img src="https://skillicons.dev/icons?
     i=ts,js,nodejs,express,nestjs,python,fastapi,react,nextjs,flutter,postgres,mysql,mongodb,redis,aws,gcp,azure,docker,kubernetes,terraform,nginx,graphql,prisma,githubact
     ions" />
@@ -103,40 +85,32 @@
 
   ---
 
-  ### Technical Areas I Can Defend
+  ## Technical Depth
 
-  - API design, auth, permissions, rate limits, and backend boundaries
-  - PostgreSQL query plans, indexes, partitioning, read replicas, materialized views, and Redis strategy
-  - Queue design, background workers, retries, failure handling, and async AI workloads
-  - Wallet ledgers, KYC, payment providers, crypto rails, settlement, and admin recovery tools
-  - Streaming chat, realtime messaging, Socket.IO, notifications, and mobile API contracts
-  - Cloud deployment, observability, backups, rollback, cost control, and production debugging
+  ```txt
+  Backend        API design, auth, permissions, queues, workers, realtime systems
+  Data           PostgreSQL, indexing, materialized views, Redis, query performance
+  AI             OCR cleanup, tutor flows, generation pipelines, streaming chat
+  Fintech        Wallets, KYC, Paystack, Quidax, transaction state, settlement
+  Cloud          AWS, GCP, Azure, Docker, Nginx, CI/CD, monitoring, backups
+  Frontend       React, Next.js, Flutter-backed APIs, admin dashboards
 
-  ---
+  ———
 
-  ### Open To
+  ## Open To
 
   - Senior backend engineering roles
   - AI product engineering roles
-  - Platform / infrastructure roles
+  - Platform and infrastructure roles
   - Contract work with clear technical outcomes
-  - Startup roles in edtech, fintech, crypto, social, AI, or operational platforms
+  - Startup roles in edtech, fintech, crypto, AI, social, or operational products
 
-  ---
+  ———
 
-  ### Contact
-
-  - Email: ayomikuolatunji@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/ayomiku-olatunji-891901198/
-  - X: https://x.com/AyomikuO_
-  - GitHub: https://github.com/Ayomikuolatunji
-
-  ---
-
+  ## GitHub Stats
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ayomikuolatunji&show_icons=true&theme=github_dark&hide_border=true" alt="Ayomiku GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ayomikuolatunji&show_icons=true&theme=github_dark&hide_border=true" />
   </p>
-
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayomikuolatunji&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayomikuolatunji&layout=compact&theme=github_dark&hide_border=true" />
   </p>
