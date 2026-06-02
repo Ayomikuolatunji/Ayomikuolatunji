@@ -103,6 +103,3 @@
   - Platform and infrastructure roles
   - Contract work with clear technical outcomes
   - Startup roles in edtech, fintech, crypto, AI, social, or operational products
-
-  ———
-
