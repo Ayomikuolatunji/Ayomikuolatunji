@@ -1,8 +1,8 @@
-<h1 align="center">Ayomiku Olatunji - AyoScript</h1>
+<h1 align="center">Ayomiku Olatunji</h1>
 
 <p align="center">
   <strong>Senior Backend / Full-stack Engineer</strong><br />
-  Backend systems, LLM applications, fintech rails, edtech platforms, realtime products, and cloud infrastructure.
+  I build backend platforms, LLM applications, fintech rails, realtime systems, and cloud infrastructure for products that need to scale.
 </p>
 
 <p align="center">
@@ -23,21 +23,34 @@
 
 ---
 
-## Engineering Focus
+## Senior Signal
 
-I build production systems where backend quality directly affects user experience: transaction state, slow reads, realtime messaging, LLM context, provider failures, admin operations, mobile APIs, and cloud reliability.
+I work on product areas where backend decisions are visible to users: slow reads, payment state, realtime messaging, AI response quality, mobile API contracts, admin operations, provider failures, and production recovery.
 
 <p>
-  <img src="https://img.shields.io/badge/7%20years-production%20software-17664a?style=flat-square" alt="7 years production software" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20years-17664a?style=flat-square" alt="7+ years" />
   <img src="https://img.shields.io/badge/PostgreSQL-4B%2B%20records-336791?style=flat-square&logo=postgresql&logoColor=white" alt="4B+ PostgreSQL records" />
-  <img src="https://img.shields.io/badge/API%20latency-45%25%20reduction-c47a1d?style=flat-square" alt="45 percent API latency reduction" />
-  <img src="https://img.shields.io/badge/Cost%20removed-%2430K%2Fyear-8f2f23?style=flat-square" alt="$30K annual cost removed" />
+  <img src="https://img.shields.io/badge/API%20latency-45%25%20reduced-c47a1d?style=flat-square" alt="45 percent latency reduction" />
+  <img src="https://img.shields.io/badge/Cost%20reduction-%2430K%2Fyear-8f2f23?style=flat-square" alt="$30K annual cost reduction" />
   <img src="https://img.shields.io/badge/Uptime%20target-99.8%25-111111?style=flat-square" alt="99.8 percent uptime target" />
 </p>
 
 ---
 
-## LLM / AI Engineering
+## What I Build
+
+| Area | Depth |
+| --- | --- |
+| Backend platforms | API design, auth, permissions, data modeling, queues, workers, rate limits, and admin operations |
+| LLM applications | MCP servers, tool calling, structured outputs, retrieval context, streaming responses, evals, and async model jobs |
+| Data systems | PostgreSQL query plans, indexing, materialized views, replicas, Redis, caching, and billion-record pressure |
+| Fintech systems | Wallet ledgers, KYC, payment providers, settlement flows, transaction states, idempotency, and recovery tooling |
+| Realtime products | Socket.IO, WebSockets, chat history, notifications, feed events, Redis queues, and mobile concurrency |
+| Cloud operations | AWS, GCP, Azure, Docker, Nginx, monitoring, backups, rollback paths, and cost control |
+
+---
+
+## AI Engineering
 
 <p>
   <img src="https://img.shields.io/badge/MCP-server-111111?style=for-the-badge" alt="MCP server" />
@@ -48,31 +61,18 @@ I build production systems where backend quality directly affects user experienc
 </p>
 
 ```txt
-MCP servers              OAuth-protected tool access, read-only tools, ChatGPT connection flow
-Tool calling             Function calling, typed arguments, tool result contracts, guarded actions
-Structured outputs       JSON schema, deterministic response shapes, parser-safe generation
-Retrieval systems        Context selection, source grounding, material search, study context assembly
-Streaming UX             Token streaming, chat state, retry paths, mobile-friendly response flows
-Model evaluation         Regression checks, output validation, noisy-input handling, quality gates
-Async model jobs         Queues, workers, retries, extraction pipelines, long-running generation
-Local LLM workflows      Ollama experiments, prompt iteration, private model testing, offline prototyping
-AI coding systems        Claude-assisted refactors, code review, test generation, and architecture iteration
+MCP servers           OAuth-protected access, read-only tools, ChatGPT connection flow
+Tool calling          Function calling, typed arguments, result contracts, guarded actions
+Structured outputs    JSON schema, stable response shapes, parser-safe generation
+Retrieval context     Source grounding, context selection, document search, study context assembly
+Streaming systems     Token streaming, chat state, retries, mobile-friendly response flows
+Model quality         Output validation, regression checks, evals, noisy-input handling
+Async AI work         Queues, workers, retries, extraction pipelines, long-running generation
+Local LLMs            Ollama experiments, prompt iteration, private model testing
+AI coding workflows   Claude-assisted refactors, reviews, test generation, architecture iteration
 ```
 
-Confirmed implementation example: I built an MCP server with OAuth/PKCE, protected-resource metadata, read-only tool schemas, learning-context search, material context retrieval, and progress access.
-
----
-
-## Core Engineering Areas
-
-```txt
-Backend architecture     Node.js, TypeScript, Python, FastAPI, Express, NestJS, Prisma, GraphQL
-Data performance         PostgreSQL, query plans, indexes, materialized views, replicas, Redis
-Realtime systems         Socket.IO, WebSockets, chat, notifications, Redis queues, mobile concurrency
-Fintech systems          Wallet ledgers, KYC, payment providers, settlement, transaction states
-Cloud operations         AWS, GCP, Azure, Docker, Nginx, monitoring, backups, rollback, cost control
-Product infrastructure   Admin tooling, permissions, subscriptions, billing paths, worker pipelines
-```
+Implementation proof: I have built an MCP server with OAuth/PKCE, protected-resource metadata, read-only tool schemas, learning-context search, material retrieval, and progress access.
 
 ---
 
@@ -97,14 +97,16 @@ Product infrastructure   Admin tooling, permissions, subscriptions, billing path
 
 ---
 
-## What I Work On
+## Engineering Principles
 
-- Backend platforms for products with real users, payment flows, admin operations, and mobile clients
-- LLM application systems with MCP, retrieval, structured output, streaming, evals, and background workers
-- Data-heavy systems where PostgreSQL, Redis, queues, and cache strategy decide product speed
-- Fintech and crypto workflows where idempotency, transaction state, observability, and recovery matter
-- Social and media systems with feeds, messaging, notifications, moderation hooks, and async processing
-- Infrastructure repair: deployments, Nginx, monitoring, backups, cost control, and rollback paths
+- Move expensive work out of request paths.
+- Treat third-party providers as unreliable boundaries.
+- Make transaction state explicit and recoverable.
+- Keep admin visibility close to product risk.
+- Design APIs for mobile latency, retries, and partial failure.
+- Use queues, caches, and workers when product flow needs them.
+- Validate model output before it reaches users.
+- Prefer observability and rollback over blind confidence.
 
 ---
 
@@ -118,23 +120,6 @@ Product infrastructure   Admin tooling, permissions, subscriptions, billing path
 
 ---
 
-## Portfolio Source
-
-This repository contains my Next.js portfolio.
-
-```bash
-npm install
-npm run dev
-```
-
-Public CV download:
-
-```txt
-/api/cv/download
-```
-
-Private CV upload:
-
-```txt
-/secret-cv
-```
+<p align="center">
+  <strong>Best contact:</strong> <a href="mailto:ayomikuolatunji@gmail.com">ayomikuolatunji@gmail.com</a>
+</p>
